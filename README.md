@@ -512,14 +512,14 @@ import 'zone.js/dist/zone'
 ```
 В результаті у нас вийде наступна структура проекту:
 
-![Структура](C:\Users\Lumen\Documents\GitHub\Angular\purchaseApp\first-app-1.png)
+![alt text](https://github.com/chatprrr/Angular/blob/main/first-app-1.png)
 
 Запустимо проект. Для цього в командному рядку (терміналі) перейдемо до папки проекту і потім виконаємо команду 'npm run dev':
 ```
 C:\angular2\purchaseApp>npm run dev
 ```
 
-![Додаток](C:\Users\Lumen\Documents\GitHub\Angular\purchaseApp\first-app-2.png)
+![alt text](https://github.com/chatprrr/Angular/blob/main/first-app-2.png)
 
 Готово!
 
